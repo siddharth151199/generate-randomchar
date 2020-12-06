@@ -1,4 +1,4 @@
-# hexclane/randomchar
+# generate-randomchar
 This library is for front-end devlopment used in React js
 
 ## Installation
